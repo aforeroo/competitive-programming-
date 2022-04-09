@@ -21,3 +21,12 @@ solution to contest type programming problems available online, each source has 
   folder name: Domain name
   
      [problem.name]-[Dificulty]-HackerRank.ipynb
+- [Code Chef](https://www.codechef.com/practice?itm_medium=navmenu&itm_campaign=practice)
+  [problem.code]-[problem.name]-codechef.ipynb
+- [Code forces](https://codeforces.com/problemset)
+  [problem.id]-[problem.name]-code-forces.ipynb
+- [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam/archive)
+  [codejam.year]-[problem.name]-codejam.ipynb
+ 
+
+ 
