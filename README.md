@@ -27,6 +27,9 @@ solution to contest type programming problems available online, each source has 
   [problem.id]-[problem.name]-code-forces.ipynb
 - [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam/archive)
   [codejam.year]-[problem.name]-codejam.ipynb
+- [Exercism](https://exercism.org/tracks/python/exercises)
+  [problem.name]-excercism.ipynb
+
  
 
  
